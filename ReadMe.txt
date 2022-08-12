@@ -1,0 +1,1 @@
+第三个版本是在第二个版本上进行修改得到的，我们将其中的“task3run.py”换为“clienttask3.py”和“severtask3.py”，以及“task4run.py”换为“clienttask4.py”和“severtask4.py”，其他不做改变。在运行的时候首先要运行“sever”文件，保持其正常运行，然后在“client”文件的终端运行“streamlit run”+“运行文件”（如“clienttask3.py”），即可转到相应的网页，在这些网页上能够选择相应的边缘设备，进行训练。其他的文件仍然是选择相应的参数即可得到最终的结果。
